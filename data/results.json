@@ -222,5 +222,13 @@
     "away": "Aston Villa",
     "homeGoals": 0,
     "awayGoals": 0
+  },
+  {
+    "id": "401879291",
+    "date": "2026-09-06T13:00Z",
+    "home": "Everton",
+    "away": "Manchester United",
+    "homeGoals": 2,
+    "awayGoals": 2
   }
 ]
