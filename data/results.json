@@ -286,5 +286,13 @@
     "away": "Everton",
     "homeGoals": 0,
     "awayGoals": 0
+  },
+  {
+    "id": "401878779",
+    "date": "2026-09-12T19:00Z",
+    "home": "Sunderland",
+    "away": "Arsenal",
+    "homeGoals": 0,
+    "awayGoals": 2
   }
 ]
