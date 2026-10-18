@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T04:13:43.879Z",
+  "generatedAt": "2026-10-18T04:19:34.514Z",
   "sourceUrl": "https://online.singaporepools.com/en/sports",
   "competitionUrl": "https://online.singaporepools.com/en/sports/competition/36/football/england/english-premier",
   "mode": "availability_only",
@@ -102,7 +102,7 @@
       "ok": true,
       "status": 200,
       "contentType": "text/html; charset=utf-8",
-      "bytes": 1006,
+      "bytes": 1005,
       "error": null
     }
   ]
